@@ -1,0 +1,9 @@
+# Archivos con estas extensiones serán ignoradas por Git
+# Ignora los archivos terminados en .tmp
+*.tmp
+
+# Ignora archivos temporales de Word
+~$*.doc*
+
+# Ignora archivos temporales de PowerPoint
+~$*.ppt*
