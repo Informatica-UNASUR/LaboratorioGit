@@ -7,3 +7,8 @@
 
 # Ignora archivos temporales de PowerPoint
 ~$*.ppt*
+
+# Archivos de mac
+*.DS_Store
+*._.DS_Store
+*_Git_word.docx
